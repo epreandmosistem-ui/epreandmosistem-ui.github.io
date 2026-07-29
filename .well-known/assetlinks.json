@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.ac.ivet.ptik.epremo",
+      "sha256_cert_fingerprints": [
+        "24:3C:2B:44:D6:2A:0B:BF:8B:F5:3F:13:46:F3:1F:F9:E5:AE:70:06:45:88:05:62:4F:04:C3:73:62:3F:CA:F6"
+      ]
+    }
+  }
+]
